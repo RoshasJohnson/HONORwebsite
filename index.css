@@ -41,6 +41,7 @@ a {
   background-color: rgb(0, 0, 0);
   color: white;
   background-image: url(Pictures/magic-moments-awards-pc-0927.jpg);
+  background-size: auto;
   height: 500px;
 }
 .bgimage {
@@ -58,6 +59,7 @@ width: 97%;
 }
 .bgimage2 {
   background-image: url(Pictures/talents_pc-0926.jpg);
+  
 }
 li {
   font-size: 15px;
